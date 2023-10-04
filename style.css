@@ -1,0 +1,12 @@
+.body_background {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+canvas {
+    border-style: groove;
+    border-radius: 5px;
+	background-color: white;
+}
+
